@@ -26,9 +26,11 @@ A minimal Python CLI tool for interacting with Amazon S3. This tool allows users
 
 ## CLI Commands
 
-* **'upload <filename>'**: Upload a file to the S3 bucket
-* **'download <filename>'**: Download a file from the S3 bucket
-* **'list'**: List all files in the bucket
+| Command                        | Description                           |
+|-------------------------------|----------------------------------------|
+| `upload <filename>`           | Upload a file to the S3 bucket         |
+| `download <filename>`         | Download a file from the S3 bucket     |
+| `list`                        | List all files in the bucket           |
 
 ---
 
