@@ -46,12 +46,18 @@ A minimal Python CLI tool for interacting with Amazon S3. This tool allows users
 
 ## Setting Up the Environment (Optional but Recommended)
 
-# Create and activate a virtual environment
-python3 -m venv .venv
-source .venv/bin/activate       # On Windows use: .venv\Scripts\activate
+### Create and activate a virtual environment
 
-# Install dependencies
+```bash
+python3 -m venv .venv
+source .venv/bin/activate    # On Windows use: .venv\Scripts\activate
+```
+
+### Install dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
 ---
 
@@ -74,3 +80,9 @@ pip install -r requirements.txt
 ## Project Status
 
 ✅ Minimal viable project (MVP) complete.
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
