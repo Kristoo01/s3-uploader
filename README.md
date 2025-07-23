@@ -44,9 +44,20 @@ A minimal Python CLI tool for interacting with Amazon S3. This tool allows users
 
 ---
 
+## Setting Up the Environment (Optional but Recommended)
+
+# Create and activate a virtual environment
+python3 -m venv .venv
+source .venv/bin/activate       # On Windows use: .venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+---
+
 ## File Validation & Logging
 
-* Only .txt, .csv, .json, and .log files are accepted
+* Only .txt, .pdf, .jpg, .png files are accepted
 * Activity is logged in `uploader.log`
 * Progress is displayed during upload/download
 
