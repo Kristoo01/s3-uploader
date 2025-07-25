@@ -77,6 +77,12 @@ pip install -r requirements.txt
 
 ---
 
+## License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software as permitted under the terms of the license.
+
+---
+
 ## Project Status
 
 ✅ Minimal viable project (MVP) complete.
