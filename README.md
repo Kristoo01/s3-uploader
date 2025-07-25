@@ -86,9 +86,3 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## Project Status
 
 ✅ Minimal viable project (MVP) complete.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
